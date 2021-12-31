@@ -384,7 +384,7 @@ h3 {
   margin-bottom: 60px;
   background-color: #1a1a1a;
 }
-.role_brown-text_text-darken-2
+.brown-text.text-darken-2
 {
 	color: #666;
 }
@@ -426,7 +426,11 @@ h3 {
   margin-top: 2rem;
   text-transform: uppercase;
 }
+.card-reveal
+{
+	  background-color: #1a1a1a;
 
+}
 #experience .card-action {
   background-color: rgba(0, 0, 0, 0.02);
   border: none;

@@ -384,7 +384,11 @@ h3 {
   margin-bottom: 60px;
   background-color: #1a1a1a;
 }
-.role_brown-text_text-darken-2
+.brown-text.text-darken-2
+{
+	color: #666;
+}
+.brown-text
 {
 	color: #666;
 }
