@@ -597,7 +597,7 @@ small {
     width: 100%;
   }
   nav {
-    background: #fff;
+    background: #0b0e12;
     height: 64px;
     position: absolute;
   }
