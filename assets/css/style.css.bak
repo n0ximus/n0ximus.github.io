@@ -24,6 +24,11 @@
 	color: #0b0e12;
 }
 
+.side-nav
+{
+	
+}
+
 .tracker {
   /* visibility: hidden; */
   position: fixed;
@@ -274,7 +279,7 @@ ul.side-nav.fixed li.logo a {
 }
 
 ul.table-of-contents li:not(.logo) a.active, ul.table-of-contents li:not(.logo) a:hover {
-  background-color: #0b0e12;
+  background-color: light grey;
   border-left: 3px solid;
 }
 
