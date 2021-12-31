@@ -382,9 +382,12 @@ h3 {
 
 .card {
   margin-bottom: 60px;
-  background-color: #535659;
+  background-color: #1a1a1a;
 }
-
+.role_brown-text_text-darken-2
+{
+	
+}
 .card .role {
   font-size: 1.25rem;
   position: absolute;
