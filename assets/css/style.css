@@ -269,7 +269,7 @@ ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
 
 ul.side-nav.fixed li.logo {
   background-color: #0b0e12 !important;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #57fff7;
   box-sizing: content-box;
   min-height: 90px;
   padding: 30px 30px 40px;
