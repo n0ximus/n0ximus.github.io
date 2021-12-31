@@ -21,7 +21,7 @@
 }
 .hide-on-small-only
 {
-	color: 0b0e12;
+	color: #0b0e12;
 }
 
 .tracker {
