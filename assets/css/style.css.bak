@@ -21,7 +21,7 @@
 }
 .hide-on-small-only
 {
-	color: #0b0e12 !important;
+	background-color: #0b0e12 !important;
 }
 
 .side-nav
@@ -267,7 +267,7 @@ ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
 } */
 
 ul.side-nav.fixed li.logo {
-  background-color: #0b0e12;
+  background-color: #0b0e12 !important;
   border-bottom: 1px solid #ddd;
   box-sizing: content-box;
   min-height: 90px;

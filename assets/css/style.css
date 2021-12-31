@@ -21,7 +21,7 @@
 }
 .hide-on-small-only
 {
-	color: #0b0e12 !important;
+	background-color: #0b0e12 !important;
 }
 
 .side-nav
@@ -231,6 +231,7 @@ dt {
 
 ul.side-nav {
   width: 190px;
+  background-color: #0b0e12 !important;
 }
 
 ul.side-nav li {
