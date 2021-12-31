@@ -21,12 +21,12 @@
 }
 .hide-on-small-only
 {
-	color: #0b0e12;
+	color: #0b0e12 !important;
 }
 
 .side-nav
 {
-		color: #0b0e12;
+		color: #0b0e12 !important;
 
 }
 
@@ -619,7 +619,7 @@ small {
     width: 100%;
   }
   nav {
-    background: #0b0e12;
+    background: #0b0e12 !important;
     height: 64px;
     position: absolute;
   }
