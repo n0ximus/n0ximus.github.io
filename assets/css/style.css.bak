@@ -26,7 +26,8 @@
 
 .side-nav
 {
-	
+		color: #0b0e12;
+
 }
 
 .tracker {
