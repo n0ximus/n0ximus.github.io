@@ -19,6 +19,10 @@
   width: 100%;
   height: auto;
 }
+.hide-on-small-only
+{
+	color: #0b0e12;
+}
 
 .tracker {
   /* visibility: hidden; */
@@ -275,7 +279,7 @@ ul.table-of-contents li:not(.logo) a.active, ul.table-of-contents li:not(.logo) 
 }
 
 ul.side-nav.fixed.table-of-contents li:not(.logo) a span, ul#slide-out li:not(.logo) a span {
-  color: #0b0e12 !important;
+  color: #333 !important;
 }
 
 li.logo span {
