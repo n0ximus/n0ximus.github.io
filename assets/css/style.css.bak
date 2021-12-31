@@ -386,7 +386,7 @@ h3 {
 }
 .role_brown-text_text-darken-2
 {
-	
+	color: #666;
 }
 .card .role {
   font-size: 1.25rem;

@@ -426,7 +426,11 @@ h3 {
   margin-top: 2rem;
   text-transform: uppercase;
 }
+.card-reveal
+{
+	  background-color: #1a1a1a;
 
+}
 #experience .card-action {
   background-color: rgba(0, 0, 0, 0.02);
   border: none;
