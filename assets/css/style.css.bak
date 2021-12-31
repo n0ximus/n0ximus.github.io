@@ -547,7 +547,7 @@ small {
 }
 
 .grey-text {
-  color: #666 !important;
+  color: #FFFFFF !important;
 }
 
 /* main .teal-text */
