@@ -432,7 +432,7 @@ h3 {
 }
 .card-reveal
 {
-	  background-color: #1a1a1a;
+	  background-color: #1a1a1a !important;
 
 }
 #experience .card-action {
