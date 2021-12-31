@@ -382,11 +382,15 @@ h3 {
 
 .card {
   margin-bottom: 60px;
-  background-color: #1a1a1a;
+  background-color: #1a1a1a !important;
 }
 .brown-text.text-darken-2
 {
-	color: #666;
+	color: #666 !important;
+}
+.brown-text
+{
+	color: #666 !important;
 }
 .card .role {
   font-size: 1.25rem;
