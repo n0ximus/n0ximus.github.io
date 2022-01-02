@@ -584,7 +584,10 @@ small {
 .teal {
   background-color: #2b2b2b !important;
 }
-
+.teal-text-highlight {
+    color: #57fff7 !important;
+    background-color: #2b2b2b !important;
+}
 /* .teal {
   background-color: #00695c !important;
 } */
