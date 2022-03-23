@@ -23,7 +23,8 @@
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
     <!-- Custom Styles-->
     <link rel="stylesheet" href="/assets/css/style.css" />
-    <title>Sage Meadows | Software Developer</title>
+
+    <title>Sage Meadows | Portfolio</title>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-126939217-2"></script>
@@ -38,14 +39,14 @@
     <!-- Open Graph-->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Sage Meadows | Software Developer" />
-    <meta property="og:description" content="Software Developer" />
+    <meta property="og:title" content="Sage Meadows | Portfolio" />
+    <meta property="og:description" content="Portfolio" />
     <meta property="og:url" content="https://n0ximus.github.io/" />
-    <meta property="og:site_name" content="Sage Meadows | Software Developer" />
+    <meta property="og:site_name" content="Sage Meadows | Portfolio" />
     <meta property="article:publisher" content="https://n0ximus.github.io/" />
     <!-- Twitter -->
     <meta name="author" content="Sage Meadows" />
-    <meta name="description" content="College student with a strong interest in software engineering." />
+    <meta name="description" content="College student with a strong interest in anything related to Computer Science." />
     <link rel="apple-touch-icon" sizes="57x57" href="/assets/img/favicon/apple-icon-57x57.png" />
     <link rel="apple-touch-icon" sizes="60x60" href="/assets/img/favicon/apple-icon-60x60.png" />
     <link rel="apple-touch-icon" sizes="72x72" href="/assets/img/favicon/apple-icon-72x72.png" />
@@ -93,64 +94,45 @@
                 </a>
             </li>
             <li class="bold">
-                <a aria-label="Navigate to the Experience section" href="#experience"
+                <a aria-label="Navigate to the Work Experience section" href="#experience"
                    class="waves-effect waves-dark teal-text">
-                    <i class="mdi-action-trending-up small"></i><span>Experience</span>
+                    <i class="mdi-action-trending-up small"></i><span>Work Experience</span>
                 </a>
             </li>
-
+            <li class="bold">
+                <a aria-label="Navigate to the Activities section" href="#activities"
+                   class="waves-effect waves-dark teal-text">
+                    <i class="mdi-action-account-child small"></i><span>Activities</span>
+                </a>
+            </li>
             <li class="bold">
                 <!-- mdi-av-web small
-                     mdi-av-my-library-books small-->
+                mdi-av-my-library-books small-->
                 <a aria-label="Navigate to the Projects section" href="#projects" class="waves-effect waves-dark teal-text">
                     <i class="mdi-av-my-library-books small"></i><span>Projects</span>
                 </a>
             </li>
 
             <li class="bold">
-                <!--
-                ICONS:
-                mdi-action-assessment
-                mdi-social-poll
-                mdi-av-equalizer
-                -->
+
                 <a aria-label="Navigate to the Skills section" href="#skills" class="waves-effect waves-dark teal-text">
                     <i class="mdi-action-assessment small"></i><span>Skills</span>
                 </a>
             </li>
 
             <li class="bold">
-                <!--
-                ICONS:
-                -->
                 <a aria-label="Navigate to the Education section" href="#education" class="waves-effect waves-dark teal-text">
                     <i class="mdi-social-school small"></i><span>Education</span>
                 </a>
             </li>
 
             <li class="bold">
-                <!--
-                1. mdi-communication-contacts
-                2. mdi-content-mail
-                3. mdi-communication-email
-                -->
                 <a aria-label="Navigate to the Contact section" href="#contact" class="waves-effect waves-dark teal-text">
                     <i class="mdi-content-mail small"></i><span>Contact</span>
                 </a>
             </li>
 
             <li class="bold">
-                <!--
-                ICONS:
-                1. mdi-action-description
-                2. mdi-file-folder
-                3. mdi-file-folder-open
-                4. mdi-file-attachment
-                5. mdi-file-folder-shared
-                -->
-                <!-- <a aria-label="Open Sage's resume in a new tab" href="#resume" target="_blank"
-                  onclick="window.open('https://drive.google.com/file/d/1vYi-bMyIsZPve0x_clxY8xsDtiHiOMd 3/view?usp=sharing')"
-                  class="waves-effect waves-dark teal-text"><i class="mdi-file-folder-open small"></i><span>Resume</span></a> -->
                 <a aria-label="Open Sage's resume in a new tab" href="https://n0ximus.github.io/assets/resume/SageMeadowsResume.pdf" target="_blank"
                    class="waves-effect waves-dark teal-text"><i class="mdi-file-folder-open small"></i><span>Resume</span></a>
             </li>
@@ -178,9 +160,17 @@
                 </a>
             </li>
             <li class="bold">
-                <a aria-label="Navigate to the Experience section" href="#experience"
+                <a aria-label="Navigate to the Work Experience section" href="#experience"
                    class="waves-effect waves-dark teal-text">
-                    <i class="mdi-action-trending-up small"></i><span>Experience</span>
+                    <i class="mdi-action-trending-up small"></i><span>Work Experience</span>
+                </a>
+
+            </li>
+
+            <li class="bold">
+                <a aria-label="Navigate to the Activities section" href="#activities"
+                   class="waves-effect waves-dark teal-text">
+                    <i class="mdi-action-account-child small"></i><span>Activities</span>
                 </a>
             </li>
             <li class="bold">
@@ -221,8 +211,8 @@
                 <div class="col-md-9">
                     <div class="content section-padding valign" style="margin-left: 10%; margin-top: 50px;">
                         <div class="caption">
-                            <h2>Hi, I'm <span class="teal">Sage Meadows.</span></h2>
-                            <h5 style="color:#fff">A <span class="typing" style="font-weight: 300; color:#004d40"></span></h5>
+                            <h2>Hi, I'm <span class="teal-text-highlight">Sage Meadows.</span></h2>
+                            <h5 style="color:#fff">A <span class="typing" style="font-weight: 300; color:#57fff7"></span></h5>
                             <!-- <h5 style="color:#00796b">A <span class="typing" style="font-weight: 300; color:#fff"></span></h5> -->
                             <h5>Passionate, motivated, self-taught Computer Science Major with a strong interest in software development. </h5>
                         </div>
@@ -281,12 +271,12 @@
         </section>
 
 
-        <!-- Third Section: Experience -->
+        <!-- Third Section: Work Experience -->
         <section id="experience" class="section scrollspy">
-            <h3 class="page-title white-text teal">Experience</h3>
+            <h3 class="page-title white-text teal">Work Experience</h3>
             <div class="container">
 
-                <!-- 1st Experience -->
+                <!-- 1st Work Experience -->
                 <div class="card">
                     <div class="card-content">
                         <div class="row">
@@ -326,51 +316,7 @@
                     </div>
                 </div>
 
-                <!-- 4th Experience -->
-                <div class="card">
-                    <div class="card-content">
-                        <div class="row">
-                            <div class="col s12 m2">
-                                <a href="https://calpoly.hack4impact.org/" target="_blank">
-                                    <img alt="h4i logo"
-                                         src="/assets/img/h4ilogo.png" class="responsive-img center-block" />
-                                </a>
-                            </div>
-                            <!-- <div class="col s12 m10"> -->
-                            <div class="col s12 m10">
-                                <p>
-                                    <span class="card-title">
-                                        <a href="https://calpoly.hack4impact.org/" target="_blank"
-                                           class="teal-text hoverline">Hack4Impact</a>
-                                    </span>
-                                </p>
-                            </div>
-                        </div>
-                        <div class="role brown-text text-darken-2">Developer</div>
-                        <ul>
-                            <li>
-                                Full-stack development with MERN stack for non-profit partners.
-                            </li>
-                            <li>
-                                Currently developing a management system for Woods Humane Society.
-                            </li>
-                            <li>
-                                Developed a doula volunteer management system on a team for Hospice of
-                                San Luis Obispo for 2020-2021 school year.
-                            </li>
-                            <li>
-                                Participated in Hack4Impact bootcamps where I got to gain experience with the MERN stack before projects.
-                            </li>
-                            <li>
-                                <b>Tools:</b> MongoDB, Express, React, and Node JS
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="card-action">
-                        <span>August 2020 - PRESENT | San Luis Obispo, California</span>
-                    </div>
-                </div>
-                <!-- 2nd Experience -->
+                <!-- 2nd Work Experience -->
                 <div class="card">
                     <div class="card-content">
                         <div class="row">
@@ -407,7 +353,7 @@
                     </div>
                 </div>
 
-                <!-- 3rd Experience -->
+                <!-- 3rd Work Experience -->
                 <div class="card">
                     <div class="card-content">
                         <div class="row">
@@ -450,7 +396,7 @@
                     </div>
                 </div>
 
-                <!-- 5th Experience -->
+                <!-- 5th Work Experience -->
                 <div class="card">
                     <div class="card-content">
                         <div class="row">
@@ -504,6 +450,58 @@
             </div>
         </section>
 
+
+        <!-- Third Section: Activities -->
+        <section id="activities" class="section scrollspy">
+            <h3 class="page-title white-text teal">Activities</h3>
+            <div class="container">
+                <!-- 1st Activity -->
+                <div class="card">
+                    <div class="card-content">
+                        <div class="row">
+                            <div class="col s12 m2">
+                                <a href="https://calpoly.hack4impact.org/" target="_blank">
+                                    <img alt="h4i logo"
+                                         src="/assets/img/h4ilogo.png" class="responsive-img center-block" />
+                                </a>
+                            </div>
+                            <!-- <div class="col s12 m10"> -->
+                            <div class="col s12 m10">
+                                <p>
+                                    <span class="card-title">
+                                        <a href="https://calpoly.hack4impact.org/" target="_blank"
+                                           class="teal-text hoverline">Hack4Impact</a>
+                                    </span>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="role brown-text text-darken-2">Developer</div>
+                        <ul>
+                            <li>
+                                Full-stack development with MERN stack for non-profit partners.
+                            </li>
+                            <li>
+                                Currently developing a management system for Woods Humane Society.
+                            </li>
+                            <li>
+                                Developed a doula volunteer management system on a team for Hospice of
+                                San Luis Obispo for 2020-2021 school year.
+                            </li>
+                            <li>
+                                Participated in Hack4Impact bootcamps where I got to gain experience with the MERN stack before projects.
+                            </li>
+                            <li>
+                                <b>Tools:</b> MongoDB, Express, React, and Node JS
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="card-action">
+                        <span>August 2020 - PRESENT | San Luis Obispo, California</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!-- Fourth Section: Projects -->
         <section id="projects" class="section scrollspy">
             <h3 class="page-title white-text teal">Projects</h3>
@@ -551,7 +549,7 @@
                                     <a aria-label="Visit Hospice of SLO Management System" href="https://hospice-of-slo.web.app/" target="_blank" data-position="top"
                                        data-tooltip="View Management System"
                                        class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped">
-                                        <i class="fa fa-external-link"></i>
+                                        <i class="fa fa-link"></i>
                                     </a>
                                     <a aria-label="Visit the GitHub repo for project" href="https://github.com/hack4impact-calpoly/hospice-of-slo"
                                        target="_blank" data-position="top" data-tooltip="View Source"
@@ -579,13 +577,13 @@
                         <h4 class="brown-text light">Languages</h4>
                         <div class="row text-center">
                             <div class="col s4 m2">
-                                <img alt="" src="/assets/img/python-logo-1-300x300.jpg" class="responsive-img" />Python
+                                <img alt="" src="/assets/img/python-logo-1.png" class="responsive-img" />Python
                             </div>
                             <div class="col s4 m2">
-                                <img alt="" src="/assets/img/html5-300x300.jpg" class="responsive-img" />HTML
+                                <img alt="" src="/assets/img/html5.png" class="responsive-img" />HTML
                             </div>
                             <div class="col s4 m2">
-                                <img alt="" src="/assets/img/css3-300x300.jpg" class="responsive-img" />CSS
+                                <img alt="" src="/assets/img/css3.png" class="responsive-img" />CSS
                             </div>
                             <div class="col s4 m2">
                                 <img alt="" src="/assets/img/java.png" class="responsive-img" />Java
@@ -640,40 +638,6 @@
                         </div>
                     </div>
                 </div>
-
-                <!-- certifications -->
-                <!-- <div class="card">
-                  <div class="card-content">
-                    <h4 class="brown-text light">Certificates</h4>
-                    <div class="row text-left">
-                      <div class="container">
-                        <div class="row">
-                          <div class="col s12 m6 l6">
-                            <div class="card">
-                              <div class="card-image">
-                                <img src="/assets/img/mooc-machine-learning-coursera-800x500.jpg">
-                              </div>
-                              <div class="card-content">
-                                <span class="card-title teal-text">Machine Learning (Stanford)</span>
-                              </div>
-                            </div>
-                          </div>
-
-                          <div class="col s12 m6 l6">
-                            <div class="card">
-                              <div class="card-image">
-                                <img src="/assets/img/mooc-algorithms-stanford-2-800x500.jpg">
-                              </div>
-                              <div class="card-content">
-                                <span class="card-title teal-text">Algorithms (Stanford)</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div> -->
 
             </div>
         </section>
@@ -734,9 +698,7 @@
                                     <b>Weighted GPA: </b>4.31/4.0
                                     <br>
                                     <b>Unweighted GPA: </b>4.0/4.0
-
                                 </p>
-
                                 <ul>
                                     <p>
                                         <b>Relevant Coursework:</b>
@@ -771,13 +733,6 @@
         <section id="contact" class="section scrollspy full-height">
             <h3 class="page-title white-text teal">Contact</h3>
             <div class="container">
-                <!--
-                <p>
-                  <a aria-label="Email Sage" href="mailto:SageM5862@gmail.com" target="_blank" data-position="top"
-                    data-tooltip="Email Sage" class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
-                      class="fa fa-envelope"></i><a aria-label="Email Sage" href="mailto:SageM5862@gmail.com"
-                      class="hoverline">SageM5862@gmail.com</a></a>
-                </p>-->
                 <p>
                     <a aria-label="View Sage on GitHub" href="https://github.com/n0ximus" target="_blank"
                        data-position="top" data-tooltip="View Sage on GitHub"
